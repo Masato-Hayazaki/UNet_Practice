@@ -32,7 +32,7 @@ cd [repository name]
 pip install -r requirements_12_1.txt
 
 # CUDA 11.8
-pip install -r requirements_11_8.txt
+# pip install -r requirements_11_8.txt
 ```
 
 ## Usage
