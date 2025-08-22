@@ -1,0 +1,11 @@
+# torch==2.3.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+# torchvision==0.18.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+# torchaudio==2.3.1+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+numpy
+Pillow
+matplotlib
+tqdm
+requests
+opencv-python
+segmentation-models-pytorch
+timm
